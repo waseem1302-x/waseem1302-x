@@ -64,9 +64,3 @@ I create videos around:
 ---
 
 > “No rush. No pressure. Just learning consistently and improving daily.”
-
-
-
----
-
-> “No rush. No pressure. Just learning consistently and improving daily.”
