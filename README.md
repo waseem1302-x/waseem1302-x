@@ -1,70 +1,73 @@
-<h1 align="center">Hi 👋, I'm Waseem Mushtaq</h1>
-<h3 align="center">Passionate Frontend Developer & Python Learner from Pakistan</h3>
+<h1 align="center">Hey, I'm Waseem Mushtaq 👋</h1>
+<h3 align="center">Learning, Building, and Sharing My Journey in Tech</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waseem1302-x&label=Profile%20views&color=0e75b6&style=flat" alt="waseem1302-x" />
+  <a href="https://www.youtube.com/@waseem1302x" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/waseem-mushtaq-1302-x/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/waseem1302x" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔧 About Me
+### 👨‍💻 About Me
 
-- 🎓 I'm currently studying and learning Python for Machine Learning.
-- 💻 I have hands-on experience in **HTML**, **CSS**, **JavaScript**, and **Shopify Theme Design**.
-- 📚 I'm actively learning **Python**, **Jupyter Notebooks**, and ML fundamentals.
-- 🛠️ Currently exploring problem-solving, building mini-projects, and documenting my learning.
-
----
-
-### 📺 YouTube Channel
-
-🎥 [Waseem Mushtaq on YouTube](https://www.youtube.com/@waseem1302-x)  
-On my channel, I share content related to:
-- 📌 International student life in Malaysia 🇲🇾
-- 🎓 Study opportunities and scholarships
-- 📚 Tech and learning journey
-- 💡 Personal development and productivity tips
+- 🎓 Currently pursuing Bachelor's in Malaysia  
+- 🧠 Focused on building solid skills in:
+  - **Python** → Machine Learning (long-term goal)
+  - **JavaScript** → Shopify/Frontend Freelancing
+- 🧩 Exploring real-world applications and small projects
 
 ---
 
-### 🧰 Tech Stack
+### 🎥 YouTube — [@waseem1302x](https://www.youtube.com/@waseem1302x)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge)
+I create videos around:
+- 🎓 Life as an international student in Malaysia 🇲🇾
+- 📢 Study opportunities: scholarships, fellowships, internships
+- 🧠 Coding, productivity & personal growth as a learner
+
+---
+
+### 🛠️ Tech Stack (Currently Using & Learning)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseem1302-x" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact" height="150"/>
 </p>
 
 ---
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/waseem-mushtaq-1302-x/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/waseem1302-x" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.youtube.com/@waseem1302-x" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+- 📧 Email: [waseemmushtaq045@gmail.com](mailto:waseemmushtaq045@gmail.com)
+- 🔗 LinkedIn: [waseem-mushtaq-1302-x](https://www.linkedin.com/in/waseem-mushtaq-1302-x/)
+- 📸 Instagram: [@waseem1302x](https://instagram.com/waseem1302x)
+- ▶️ YouTube: [@waseem1302x](https://www.youtube.com/@waseem1302x)
 
 ---
+
+> “No rush. No pressure. Just learning consistently and improving daily.”
+
 
 
 ---
