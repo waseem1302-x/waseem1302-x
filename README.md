@@ -20,10 +20,10 @@
 - 🎓 Computer Science student in Malaysia  
 - 💡 Passionate about **Python, Machine Learning**, and building things that matter  
 - 🌱 Currently learning:
-  - Python (OOP, File Handling, Modules, Projects)
+  - Python (My First Step towards my Machine Learning Journey)
   - Git & GitHub (version control)
   - Data Structures & Algorithms (DSA/LeetCode)
-- 🔭 Long-term goal: Become a **Machine Learning Engineer** at a top tech company (FAANG/MAANG/NVIDIA/OpenAI)
+- 🔭 Long-term goal: Become a **Machine Learning Engineer**
 
 ---
 
@@ -52,7 +52,8 @@ I create videos on:
 ### 🏆 Achievements
 
 - 📌 Selected as **Maybank Digital Ambassador 2025**
-- 🏅 Completed multiple mini Python projects (login system, gradebook, etc.)
+- 🏅 Beta Microsolf Learn Student Ambassador 
+- 🏅 Completed multiple mini Python projects
 - 🎯 Maintaining consistent learning and content schedule (videos + coding)
 - 🌐 Growing audience on YouTube & LinkedIn while learning in public
 
