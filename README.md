@@ -51,7 +51,7 @@ I create videos on:
 
 ### 🏆 Achievements
 
-- 📌 Selected as **Maybank Digital Ambassador 2025**
+- 📌 Selected as **Maybank Global Student Ambassador 2025**
 - 🏅 Beta Microsolf Learn Student Ambassador 
 - 🏅 Completed multiple mini Python projects
 - 🎯 Maintaining consistent learning and content schedule (videos + coding)
