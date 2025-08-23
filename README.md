@@ -23,6 +23,7 @@
   - Python (My First Step towards my Machine Learning Journey)
   - Git & GitHub (version control)
   - Data Structures & Algorithms (DSA/LeetCode)
+  - Math for Machine Learning
 - 🔭 Long-term goal: Become a **Machine Learning Engineer**
 
 ---
