@@ -55,7 +55,7 @@ I create videos on:
 - 📌 Selected as **Maybank Global Student Ambassador 2025**
 - 🏅 Beta Microsolf Learn Student Ambassador 
 - 🏅 Completed multiple mini Python projects
-- 🎯 Maintaining consistent learning and content schedule (videos + coding)
+- 🎯 Maintaining a consistent learning and content schedule (videos + coding)
 - 🌐 Growing audience on YouTube & LinkedIn while learning in public
 
 ---
