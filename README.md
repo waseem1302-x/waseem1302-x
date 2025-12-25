@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Waseem Mushtaq 👋</h1>
-<h3 align="center">📚 Learner | 🧠 Problem Solver | 🎥 Content Creator | 🚀 Future ML Engineer</h3>
+<h3 align="center">CS Student | Backend Engineer in Training | Building Systems → ML Engineering</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@waseem1302x" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/waseem-mushtaq-1302-x/" target="_blank">
+  <a href="https://linkedin.com/in/waseemmushtaq045/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/waseem1302x" target="_blank">
@@ -15,51 +15,70 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student in Malaysia  
-- 💡 Passionate about **Python, Machine Learning**, and building things that matter  
-- 🌱 Currently learning:
-  - Python (My First Step towards my Machine Learning Journey)
-  - Git & GitHub (version control)
-  - Data Structures & Algorithms (DSA/LeetCode)
-  - Math for Machine Learning
-- 🔭 Long-term goal: Become a **Machine Learning Engineer**
+I'm a second-year CS student learning to build production systems that solve real problems—not just code that runs in a notebook.
 
----
+**What I'm building:**
+- 🐍 Production-grade Python applications
+- 🗄️ Backend systems with databases and APIs
+- 🧠 Strong foundation in data structures and algorithms
+- 🚀 Working toward ML Engineering through the engineering layer first
 
-### 🎥 YouTube — [@waseem1302x](https://www.youtube.com/@waseem1302x)
+**Current focus:**
+- Writing clean, maintainable Python
+- Building with FastAPI, SQL, Docker
+- Strengthening DSA fundamentals (LeetCode/problem-solving)
+- Learning system design and deployment
 
-I create videos on:
-- 🇲🇾 International student life in Malaysia  
-- 🥇 Scholarships & study opportunities  
-- 🧠 Coding, productivity & personal growth  
-- 🎯 Learning in public: My roadmap to top tech
+**Long-term goal:** ML Engineer who can build, ship, and scale AI systems in production—not just train models.
 
 ---
 
-### 🧰 Tech Stack (Learning & Using)
+## 🛠️ Tech Stack
 
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+
+**Tools & Technologies:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+**Currently Learning:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 
 ---
 
-### 🏆 Achievements
+## 🎥 YouTube — [@waseem1302x](https://www.youtube.com/@waseem1302x)
 
-- 📌 Selected as **Maybank Global Student Ambassador 2025**
-- 🏅 Beta Microsolf Learn Student Ambassador 
-- 🏅 Completed multiple mini Python projects
-- 🎯 Maintaining a consistent learning and content schedule (videos + coding)
-- 🌐 Growing audience on YouTube & LinkedIn while learning in public
+I document my journey and share knowledge on:
+- 🇲🇾 International student life in Malaysia
+- 🎓 Scholarships & study opportunities
+- 💻 Learning software engineering & tech skills
+- 🧠 Productivity, coding, and personal growth
+- 🎯 Building in public: From student to engineer
 
 ---
 
-### 🔥 GitHub Streaks & Stats
+## 🏆 Experience & Recognition
+
+- 🌟 **Maybank Global Student Ambassador (2025)** — Representing international students
+- 🔷 **Beta Microsoft Learn Student Ambassador** — Organized workshops, created content
+- 📖 Full scholarship recipient at Universiti Antarabangsa Albukhary
+- 🎓 Active in tech communities, mentoring, and content creation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=waseem1302-x&theme=default&hide_border=false" alt="GitHub Streak" />
@@ -72,14 +91,20 @@ I create videos on:
 
 ---
 
-### 📬 Contact Me
+## 📬 Let's Connect
 
 - 📧 Email: [waseemmushtaq045@gmail.com](mailto:waseemmushtaq045@gmail.com)
-- 🔗 LinkedIn: [waseem-mushtaq-1302-x](https://www.linkedin.com/in/waseem-mushtaq-1302-x/)
+- 💼 LinkedIn: [waseemmushtaq045](https://www.linkedin.com/in/waseemmushtaq045/)
 - 📸 Instagram: [@waseem1302x](https://instagram.com/waseem1302x)
 - ▶️ YouTube: [@waseem1302x](https://www.youtube.com/@waseem1302x)
 
 ---
 
-> 🧭 “No rush. No pressure. Just learning consistently and improving daily.”  
-> — *Building my foundation to stand out in tomorrow’s AI-first world.*
+<p align="center">
+  <i>"Not just code that works—systems that last."</i><br>
+  Building engineering depth for AI-driven software roles. Learning deliberately. Growing through execution.
+</p>
+
+<p align="center">
+  <b>🎯 Open to internships in Software/Backend Engineering</b>
+</p>
