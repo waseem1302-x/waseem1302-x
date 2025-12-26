@@ -2,13 +2,13 @@
 <h3 align="center">CS Student | Backend Engineer in Training | Building Systems → ML Engineering</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@waseem1302x" target="_blank">
+  <a href="https://www.youtube.com/@Mr.WaseemMushtaq" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/waseemmushtaq045/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/waseem1302x" target="_blank">
+  <a href="https://instagram.com/waseem_1302_x/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@ I'm a second-year CS student learning to build production systems that solve rea
 
 ---
 
-## 🎥 YouTube — [@waseem1302x](https://www.youtube.com/@waseem1302x)
+## 🎥 YouTube — [@Mr.WaseemMushtaq](https://www.youtube.com/@Mr.WaseemMushtaq)
 
 I document my journey and share knowledge on:
 - 🇲🇾 International student life in Malaysia
@@ -83,10 +83,9 @@ I document my journey and share knowledge on:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=waseem1302-x&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact&theme=default" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -95,8 +94,8 @@ I document my journey and share knowledge on:
 
 - 📧 Email: [waseemmushtaq045@gmail.com](mailto:waseemmushtaq045@gmail.com)
 - 💼 LinkedIn: [waseemmushtaq045](https://www.linkedin.com/in/waseemmushtaq045/)
-- 📸 Instagram: [@waseem1302x](https://instagram.com/waseem1302x)
-- ▶️ YouTube: [@waseem1302x](https://www.youtube.com/@waseem1302x)
+- 📸 Instagram: [@waseem1302x](https://instagram.com/waseem_1302_x)
+- ▶️ YouTube: [@waseem1302x](https://www.youtube.com/@Mr.WaseemMushtaq)
 
 ---
 
