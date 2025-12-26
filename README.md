@@ -93,8 +93,8 @@ I document my journey and share knowledge on:
 
 - 📧 Email: [waseemmushtaq045@gmail.com](mailto:waseemmushtaq045@gmail.com)
 - 💼 LinkedIn: [waseemmushtaq045](https://www.linkedin.com/in/waseemmushtaq045/)
-- 📸 Instagram: [@waseem1302x](https://instagram.com/waseem_1302_x)
-- ▶️ YouTube: [@waseem1302x](https://www.youtube.com/@Mr.WaseemMushtaq)
+- 📸 Instagram: [@waseem_1302_x](https://instagram.com/waseem_1302_x)
+- ▶️ YouTube: [@Mr.WaseemMushtaq](https://www.youtube.com/@Mr.WaseemMushtaq)
 
 ---
 
