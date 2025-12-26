@@ -79,13 +79,12 @@ I document my journey and share knowledge on:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=waseem1302-x&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=waseem1302-x&theme=default&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact&theme=default" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseem1302-x&show_icons=true&theme=default&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem1302-x&layout=compact&theme=default&cache_seconds=1800" height="165" alt="Top Languages" />
 </p>
 
 ---
