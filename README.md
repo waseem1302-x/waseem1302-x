@@ -20,12 +20,12 @@
 I'm a final-year Computer Science student at Albukhary International University (AIU), Malaysia, graduating in March 2028, on a full scholarship. I build production systems that solve real problems, not just code that runs in a notebook.
 
 **What I'm building:**
-- 🎓 The Next Scholar, a scholarship platform with a source-first matching system and a citation-first RAG assistant
-- 🤖 Production RAG systems with measured evals, not demos
-- 🧠 Agentic AI systems: guarded tool-using agents with human approval
-- 🐍 Production-grade Python applications with FastAPI, PostgreSQL, and React/TypeScript
-- 🗄️ Backend systems with databases and APIs
-- 📊 Strong foundation in data structures and algorithms
+- The Next Scholar, a scholarship platform with a source-first matching system and a citation-first RAG assistant
+- Production RAG systems with measured evals, not demos
+- Agentic AI systems: guarded tool-using agents with human approval
+- Production-grade Python applications with FastAPI, PostgreSQL, and React/TypeScript
+- Backend systems with databases and APIs
+- Strong foundation in data structures and algorithms
 
 **Current focus:**
 - Writing clean, maintainable Python
